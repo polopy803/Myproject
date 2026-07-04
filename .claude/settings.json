@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Notion",
+      "mcp__Canva",
+      "mcp__Google_Calendar",
+      "mcp__b2d54fa9-7e3e-40b8-bf4e-db0c5b93b3d7",
+      "mcp__04b43b22-f2b1-4559-a17f-83fb675ce147",
+      "mcp__d78d3c64-840e-4bcc-9ae5-424ec13e5666"
+    ]
+  }
+}
